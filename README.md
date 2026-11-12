@@ -2,7 +2,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Hello+there!;It%27s+me+Justine;BSIT+Student+%7C+System+Development)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Hello+there!;It%27s+me+Justine+Danielle;BSIT+Student+%7C+System+Development)
 
 
 
